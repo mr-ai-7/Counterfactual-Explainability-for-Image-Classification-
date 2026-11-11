@@ -35,5 +35,5 @@ Run the cells in order. The first run downloads the dataset and pretrained weigh
 
 ## Authors
 
-Puli Dinesh · Rathod Sai Dhanush · Jatavath Ajay  
+Jatavath Ajay . Puli Dinesh · Rathod Sai Dhanush  
 Computer Vision course, IIT Hyderabad, March 2026
